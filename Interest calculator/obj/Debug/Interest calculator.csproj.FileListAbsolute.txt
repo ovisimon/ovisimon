@@ -1,0 +1,11 @@
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\bin\Debug\Interest calculator.exe.config
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\bin\Debug\Interest calculator.exe
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\bin\Debug\Interest calculator.pdb
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\obj\Debug\Interest calculator.csprojAssemblyReference.cache
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\obj\Debug\Interest calculator.csproj.CoreCompileInputs.cache
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\obj\Debug\Interest calculator.exe
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\obj\Debug\Interest calculator.pdb
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\bin\Debug\nunit.framework.dll
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\bin\Debug\nunit.framework.pdb
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\bin\Debug\nunit.framework.xml
+C:\Users\ovisi\OneDrive\Desktop\interest calculator\Interest calculator\obj\Debug\Interest calculator.csproj.CopyComplete
